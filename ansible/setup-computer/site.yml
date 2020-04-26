@@ -1,0 +1,6 @@
+---
+- name: Install MacOS Packages
+  hosts: localhost
+  become: false
+  roles:
+    - brew_package_install 

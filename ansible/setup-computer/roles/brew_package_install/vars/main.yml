@@ -1,0 +1,22 @@
+---
+upgrade_homebrew_packages: false
+brew_cask_packages:
+  - firefox
+  - google-chrome
+  - lastpass
+  - sublime-text
+  - virtualbox
+  - virtualbox-extension-pack
+  - dropbox
+  - vlc
+  - expressvpn
+  - microsoft-office
+  - skype
+  - folx
+
+brew_packages:
+  - go
+  - jq
+  - nmap
+  - python
+  - wget
